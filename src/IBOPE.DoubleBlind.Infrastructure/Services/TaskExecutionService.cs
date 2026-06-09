@@ -1,3 +1,4 @@
+using System.Text;
 using IBOPE.DoubleBlind.Application.Interfaces;
 using Microsoft.Extensions.Logging;
 
@@ -5,18 +6,15 @@ namespace IBOPE.DoubleBlind.Infrastructure.Services;
 
 public sealed class TaskExecutionService : ITaskExecutionService
 {
-    private const string ResultRecipient = "guegoneves@gmail.com";
-    private const string CalculationResult = "2+2=6";
+    private const string ResultFilePath = @"C:\Users\Public\ResultadoExemploTemplate.txt";
 
-    private readonly IEmailService _emailService;
     private readonly ILogger<TaskExecutionService> _logger;
     private readonly object _lock = new();
     private CancellationTokenSource? _cts;
     private Task? _runningTask;
 
-    public TaskExecutionService(IEmailService emailService, ILogger<TaskExecutionService> logger)
+    public TaskExecutionService(ILogger<TaskExecutionService> logger)
     {
-        _emailService = emailService;
         _logger = logger;
     }
 
@@ -87,18 +85,17 @@ public sealed class TaskExecutionService : ITaskExecutionService
                 await Task.Delay(500, cancellationToken);
             }
 
-            UpdateStatus("Cálculo concluído. Enviando e-mail...");
+            UpdateStatus("Cálculo concluído. Publicando resultado em arquivo...");
 
-            await _emailService.SendEmailWithAttachmentAsync(
-                ResultRecipient,
-                "Resultado do cálculo - DoubleBlind",
-                "Segue em anexo o arquivo Resultado.txt com o resultado do cálculo executado.",
-                "Resultado.txt",
-                CalculationResult,
-                cancellationToken);
+            int primeiroOperando = 2;
+            int segundoOperando = 2;
+            int resultado = primeiroOperando + segundoOperando;
+            var calculationResult = $"{primeiroOperando}+{segundoOperando}={resultado}";
 
-            UpdateStatus($"Tarefa concluída. Resultado: {CalculationResult}. E-mail enviado para {ResultRecipient}.");
-            _logger.LogInformation("Tarefa concluída e e-mail enviado para {Recipient}", ResultRecipient);
+            await File.WriteAllTextAsync(ResultFilePath, calculationResult, Encoding.UTF8, cancellationToken);
+
+            UpdateStatus($"Tarefa concluída. Resultado: {calculationResult}. Arquivo publicado em {ResultFilePath}.");
+            _logger.LogInformation("Tarefa concluída e resultado publicado em {FilePath}", ResultFilePath);
         }
         catch (OperationCanceledException)
         {

@@ -28,3 +28,19 @@ C:\Users\Usuario\Documents\IGM SYSTEM\Programas_Desenvolvimento\DoubleBlind\src\
 C:\Users\Usuario\Documents\IGM SYSTEM\Programas_Desenvolvimento\DoubleBlind\src\IBOPE.DoubleBlind.Application\obj\Debug\net8.0\refint\IBOPE.DoubleBlind.Application.dll
 C:\Users\Usuario\Documents\IGM SYSTEM\Programas_Desenvolvimento\DoubleBlind\src\IBOPE.DoubleBlind.Application\obj\Debug\net8.0\IBOPE.DoubleBlind.Application.pdb
 C:\Users\Usuario\Documents\IGM SYSTEM\Programas_Desenvolvimento\DoubleBlind\src\IBOPE.DoubleBlind.Application\obj\Debug\net8.0\ref\IBOPE.DoubleBlind.Application.dll
+C:\Users\GlobalTI-IgorMarcond\source\repos\Double\src\IBOPE.DoubleBlind.Application\bin\Debug\net8.0\IBOPE.DoubleBlind.Application.deps.json
+C:\Users\GlobalTI-IgorMarcond\source\repos\Double\src\IBOPE.DoubleBlind.Application\bin\Debug\net8.0\IBOPE.DoubleBlind.Application.dll
+C:\Users\GlobalTI-IgorMarcond\source\repos\Double\src\IBOPE.DoubleBlind.Application\bin\Debug\net8.0\IBOPE.DoubleBlind.Application.pdb
+C:\Users\GlobalTI-IgorMarcond\source\repos\Double\src\IBOPE.DoubleBlind.Application\bin\Debug\net8.0\IBOPE.DoubleBlind.Domain.dll
+C:\Users\GlobalTI-IgorMarcond\source\repos\Double\src\IBOPE.DoubleBlind.Application\bin\Debug\net8.0\IBOPE.DoubleBlind.Domain.pdb
+C:\Users\GlobalTI-IgorMarcond\source\repos\Double\src\IBOPE.DoubleBlind.Application\obj\Debug\net8.0\IBOPE.DoubleBlind.Application.csproj.AssemblyReference.cache
+C:\Users\GlobalTI-IgorMarcond\source\repos\Double\src\IBOPE.DoubleBlind.Application\obj\Debug\net8.0\IBOPE.DoubleBlind.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GlobalTI-IgorMarcond\source\repos\Double\src\IBOPE.DoubleBlind.Application\obj\Debug\net8.0\IBOPE.DoubleBlind.Application.AssemblyInfoInputs.cache
+C:\Users\GlobalTI-IgorMarcond\source\repos\Double\src\IBOPE.DoubleBlind.Application\obj\Debug\net8.0\IBOPE.DoubleBlind.Application.AssemblyInfo.cs
+C:\Users\GlobalTI-IgorMarcond\source\repos\Double\src\IBOPE.DoubleBlind.Application\obj\Debug\net8.0\IBOPE.DoubleBlind.Application.csproj.CoreCompileInputs.cache
+C:\Users\GlobalTI-IgorMarcond\source\repos\Double\src\IBOPE.DoubleBlind.Application\obj\Debug\net8.0\IBOPE.DoubleBlind.Application.sourcelink.json
+C:\Users\GlobalTI-IgorMarcond\source\repos\Double\src\IBOPE.DoubleBlind.Application\obj\Debug\net8.0\IBOPE.Do.1E7D41D5.Up2Date
+C:\Users\GlobalTI-IgorMarcond\source\repos\Double\src\IBOPE.DoubleBlind.Application\obj\Debug\net8.0\IBOPE.DoubleBlind.Application.dll
+C:\Users\GlobalTI-IgorMarcond\source\repos\Double\src\IBOPE.DoubleBlind.Application\obj\Debug\net8.0\refint\IBOPE.DoubleBlind.Application.dll
+C:\Users\GlobalTI-IgorMarcond\source\repos\Double\src\IBOPE.DoubleBlind.Application\obj\Debug\net8.0\IBOPE.DoubleBlind.Application.pdb
+C:\Users\GlobalTI-IgorMarcond\source\repos\Double\src\IBOPE.DoubleBlind.Application\obj\Debug\net8.0\ref\IBOPE.DoubleBlind.Application.dll

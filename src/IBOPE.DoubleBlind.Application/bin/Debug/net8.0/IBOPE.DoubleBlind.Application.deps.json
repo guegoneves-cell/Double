@@ -16,7 +16,10 @@
       },
       "IBOPE.DoubleBlind.Domain/1.0.0": {
         "runtime": {
-          "IBOPE.DoubleBlind.Domain.dll": {}
+          "IBOPE.DoubleBlind.Domain.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }
