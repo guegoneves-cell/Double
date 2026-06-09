@@ -16,7 +16,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCopyrightAttribute("Copyright © IBOPE ")]
 [assembly: System.Reflection.AssemblyDescriptionAttribute("Aplicação web Blazor DoubleBlind com autenticação segura.")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2c5ca4da3af6bc2b3d7acd97e4af6596b9d466d0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+93100fdea550c0729b23ce04ea210c6f6eec7455")]
 [assembly: System.Reflection.AssemblyProductAttribute("DoubleBlind Web Application")]
 [assembly: System.Reflection.AssemblyTitleAttribute("IBOPE.DoubleBlind.Infrastructure")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
