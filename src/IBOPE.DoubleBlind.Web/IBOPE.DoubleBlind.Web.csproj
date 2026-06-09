@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <ItemGroup>
+    <ProjectReference Include="..\IBOPE.DoubleBlind.Application\IBOPE.DoubleBlind.Application.csproj" />
+    <ProjectReference Include="..\IBOPE.DoubleBlind.Infrastructure\IBOPE.DoubleBlind.Infrastructure.csproj" />
+  </ItemGroup>
+
+  <PropertyGroup>
+    <BlazorDisableThrowNavigationException>true</BlazorDisableThrowNavigationException>
+  </PropertyGroup>
+
+</Project>

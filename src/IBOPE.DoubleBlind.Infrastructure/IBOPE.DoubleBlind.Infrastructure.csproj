@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <ItemGroup>
+    <ProjectReference Include="..\IBOPE.DoubleBlind.Application\IBOPE.DoubleBlind.Application.csproj" />
+    <ProjectReference Include="..\IBOPE.DoubleBlind.Domain\IBOPE.DoubleBlind.Domain.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <FrameworkReference Include="Microsoft.AspNetCore.App" />
+  </ItemGroup>
+
+</Project>

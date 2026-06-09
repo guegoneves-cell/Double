@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "IBOPE.DoubleBlind.Domain/1.0.0": {
+        "runtime": {
+          "IBOPE.DoubleBlind.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "IBOPE.DoubleBlind.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

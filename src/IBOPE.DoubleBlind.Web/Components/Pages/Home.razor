@@ -1,0 +1,37 @@
+﻿@page "/home"
+@attribute [Authorize]
+
+<PageTitle>Home - DoubleBlind</PageTitle>
+
+<section class="erp-hero-banner">
+    <h2>Bem-vindo, @UserName!</h2>
+    <p>Você está conectado ao DoubleBlind. Utilize o menu lateral para acessar as funcionalidades do sistema.</p>
+</section>
+
+<h1 class="erp-page-title">Painel inicial</h1>
+
+<div class="erp-card erp-card-accent-top">
+    <a href="/iniciar-tarefa" class="erp-card-link">
+        <span class="erp-card-link__icon">▶</span>
+        <span class="erp-card-link__text">
+            <strong>Iniciar Tarefa</strong>
+            <small>Execute o cálculo e envie o resultado por e-mail</small>
+        </span>
+    </a>
+</div>
+
+@code {
+    [CascadingParameter]
+    private Task<AuthenticationState>? AuthState { get; set; }
+
+    private string UserName { get; set; } = string.Empty;
+
+    protected override async Task OnInitializedAsync()
+    {
+        if (AuthState is not null)
+        {
+            var authState = await AuthState;
+            UserName = authState.User.Identity?.Name ?? "Usuário";
+        }
+    }
+}

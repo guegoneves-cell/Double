@@ -1,0 +1,69 @@
+@page "/login"
+@layout AuthLayout
+@attribute [AllowAnonymous]
+
+<PageTitle>Login - DoubleBlind</PageTitle>
+
+<div class="erp-login-page">
+    <section class="erp-login-hero" aria-label="DoubleBlind IBOPE">
+        <p class="erp-brand-tagline">Desenvolvimento · Automação · Qualidade de Software</p>
+        <h1>DoubleBlind IBOPE</h1>
+        <p>Sistema de gestão integrada — controle de tarefas, processamento e envio de resultados em uma plataforma moderna.</p>
+    </section>
+
+    <section class="erp-login-panel">
+        <div class="erp-login-card">
+            <h1>Acesso ao sistema</h1>
+            <p class="erp-login-sub">DoubleBlind · credenciais de demonstração: admin / admin</p>
+
+            @if (!string.IsNullOrEmpty(ErrorMessage))
+            {
+                <div class="erp-alert erp-alert-danger" role="alert">
+                    @ErrorMessage
+                </div>
+            }
+
+            <form method="post" action="/account/login">
+                <AntiforgeryToken />
+
+                <div class="erp-field" style="margin-bottom:1rem">
+                    <label for="email">Usuário</label>
+                    <input id="email"
+                           name="Email"
+                           type="text"
+                           placeholder="admin"
+                           autocomplete="username"
+                           required />
+                </div>
+
+                <div class="erp-field" style="margin-bottom:1.25rem">
+                    <label for="password">Senha</label>
+                    <input id="password"
+                           name="Password"
+                           type="password"
+                           placeholder="admin"
+                           autocomplete="current-password"
+                           required />
+                </div>
+
+                <label class="erp-login-options">
+                    <input type="checkbox" name="RememberMe" value="true" />
+                    Manter conectado
+                </label>
+
+                <button type="submit" class="erp-btn erp-btn-primary erp-btn-block" style="margin-top:1rem">Entrar</button>
+            </form>
+        </div>
+    </section>
+</div>
+
+@code {
+    [SupplyParameterFromQuery(Name = "error")]
+    private string? ErrorCode { get; set; }
+
+    private string? ErrorMessage => ErrorCode switch
+    {
+        "invalid" => "Login ou senha inválidos.",
+        _ => null
+    };
+}

@@ -1,0 +1,7 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <ItemGroup>
+    <ProjectReference Include="..\IBOPE.DoubleBlind.Domain\IBOPE.DoubleBlind.Domain.csproj" />
+  </ItemGroup>
+
+</Project>

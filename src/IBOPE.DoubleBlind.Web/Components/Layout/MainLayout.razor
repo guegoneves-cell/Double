@@ -1,0 +1,69 @@
+﻿@inherits LayoutComponentBase
+
+<div class="erp-bg-grid" aria-hidden="true"></div>
+
+<div class="erp-shell">
+    <aside class="erp-sidebar">
+        <div class="erp-sidebar-brand">
+            <div class="erp-brand-mark">
+                <div class="erp-brand-icon" aria-hidden="true">DB</div>
+                <div>
+                    <div class="erp-brand-title">DoubleBlind</div>
+                    <small class="erp-brand-sub">IBOPE · IGM System</small>
+                </div>
+            </div>
+        </div>
+
+        <nav class="erp-nav">
+            <div class="erp-nav-section">Menu principal</div>
+            <NavLink href="/home" class="erp-nav-link" Match="NavLinkMatch.All">Home</NavLink>
+            <NavLink href="/iniciar-tarefa" class="erp-nav-link">Iniciar Tarefa</NavLink>
+        </nav>
+    </aside>
+
+    <div class="erp-main">
+        <header class="erp-topbar">
+            <div class="erp-topbar-empresa">
+                <span class="erp-modulo-chip">DoubleBlind</span>
+                <strong>IBOPE System</strong>
+                <span>Sistema de gestão de tarefas</span>
+            </div>
+            <div class="erp-topbar-user">
+                @if (!string.IsNullOrEmpty(UserName))
+                {
+                    <span>@UserName</span>
+                }
+                <form method="post" action="/account/logout">
+                    <AntiforgeryToken />
+                    <button type="submit" class="erp-btn erp-btn-secondary erp-btn-sm">Sair</button>
+                </form>
+            </div>
+        </header>
+
+        <main class="erp-content">
+            @Body
+        </main>
+    </div>
+</div>
+
+<div id="blazor-error-ui" data-nosnippet>
+    Ocorreu um erro inesperado.
+    <a href="." class="reload">Recarregar</a>
+    <span class="dismiss">🗙</span>
+</div>
+
+@code {
+    [CascadingParameter]
+    private Task<AuthenticationState>? AuthState { get; set; }
+
+    private string UserName { get; set; } = string.Empty;
+
+    protected override async Task OnInitializedAsync()
+    {
+        if (AuthState is not null)
+        {
+            var authState = await AuthState;
+            UserName = authState.User.Identity?.Name ?? string.Empty;
+        }
+    }
+}

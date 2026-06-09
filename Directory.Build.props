@@ -1,0 +1,17 @@
+<Project>
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <LangVersion>latest</LangVersion>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Company>IBOPE</Company>
+    <Product>DoubleBlind Web Application</Product>
+    <Copyright>Copyright © IBOPE $(Year)</Copyright>
+    <AssemblyVersion>1.0.0.0</AssemblyVersion>
+    <FileVersion>1.0.0.0</FileVersion>
+    <InformationalVersion>1.0.0</InformationalVersion>
+    <Deterministic>true</Deterministic>
+    <Authors>IBOPE</Authors>
+    <Description>Aplicação web Blazor DoubleBlind com autenticação segura.</Description>
+  </PropertyGroup>
+</Project>

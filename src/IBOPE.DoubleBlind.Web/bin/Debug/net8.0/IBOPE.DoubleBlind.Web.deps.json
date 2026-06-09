@@ -1,0 +1,64 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "IBOPE.DoubleBlind.Web/1.0.0": {
+        "dependencies": {
+          "IBOPE.DoubleBlind.Application": "1.0.0",
+          "IBOPE.DoubleBlind.Infrastructure": "1.0.0"
+        },
+        "runtime": {
+          "IBOPE.DoubleBlind.Web.dll": {}
+        }
+      },
+      "IBOPE.DoubleBlind.Application/1.0.0": {
+        "dependencies": {
+          "IBOPE.DoubleBlind.Domain": "1.0.0"
+        },
+        "runtime": {
+          "IBOPE.DoubleBlind.Application.dll": {}
+        }
+      },
+      "IBOPE.DoubleBlind.Domain/1.0.0": {
+        "runtime": {
+          "IBOPE.DoubleBlind.Domain.dll": {}
+        }
+      },
+      "IBOPE.DoubleBlind.Infrastructure/1.0.0": {
+        "dependencies": {
+          "IBOPE.DoubleBlind.Application": "1.0.0",
+          "IBOPE.DoubleBlind.Domain": "1.0.0"
+        },
+        "runtime": {
+          "IBOPE.DoubleBlind.Infrastructure.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "IBOPE.DoubleBlind.Web/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "IBOPE.DoubleBlind.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "IBOPE.DoubleBlind.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "IBOPE.DoubleBlind.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

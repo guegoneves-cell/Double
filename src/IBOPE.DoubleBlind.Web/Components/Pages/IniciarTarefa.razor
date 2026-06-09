@@ -1,0 +1,66 @@
+@page "/iniciar-tarefa"
+@attribute [Authorize]
+@rendermode InteractiveServer
+@implements IDisposable
+@inject ITaskExecutionService TaskService
+
+<PageTitle>Iniciar Tarefa - DoubleBlind</PageTitle>
+
+<h1 class="erp-page-title">Iniciar Tarefa</h1>
+
+<div class="erp-card erp-card-accent-top">
+    <p class="erp-muted">
+        Inicie o processo para executar o cálculo e enviar o resultado por e-mail.
+    </p>
+
+    <div class="erp-status-box" role="status">
+        <span class="erp-status-box__dot @(TaskService.IsRunning ? "erp-status-box__dot--running" : "")"></span>
+        <div>
+            <span class="erp-status-box__label">Status</span>
+            <span class="erp-status-box__value">@TaskService.Status</span>
+        </div>
+    </div>
+
+    <div class="erp-toolbar">
+        <button type="button"
+                class="erp-btn erp-btn-primary"
+                disabled="@TaskService.IsRunning"
+                @onclick="StartAsync">
+            Iniciar
+        </button>
+
+        <button type="button"
+                class="erp-btn erp-btn-danger"
+                disabled="@(!TaskService.IsRunning)"
+                @onclick="StopAsync">
+            Parar
+        </button>
+    </div>
+</div>
+
+@code {
+    protected override void OnInitialized()
+    {
+        TaskService.StatusChanged += OnStatusChanged;
+    }
+
+    private async Task StartAsync()
+    {
+        await TaskService.StartAsync();
+    }
+
+    private async Task StopAsync()
+    {
+        await TaskService.StopAsync();
+    }
+
+    private void OnStatusChanged()
+    {
+        _ = InvokeAsync(StateHasChanged);
+    }
+
+    public void Dispose()
+    {
+        TaskService.StatusChanged -= OnStatusChanged;
+    }
+}

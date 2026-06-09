@@ -1,0 +1,34 @@
+C:\Users\Usuario\Documents\DoubleBlind\src\IBOPE.DoubleBlind.Infrastructure\bin\Debug\net8.0\IBOPE.DoubleBlind.Infrastructure.deps.json
+C:\Users\Usuario\Documents\DoubleBlind\src\IBOPE.DoubleBlind.Infrastructure\bin\Debug\net8.0\IBOPE.DoubleBlind.Infrastructure.dll
+C:\Users\Usuario\Documents\DoubleBlind\src\IBOPE.DoubleBlind.Infrastructure\bin\Debug\net8.0\IBOPE.DoubleBlind.Infrastructure.pdb
+C:\Users\Usuario\Documents\DoubleBlind\src\IBOPE.DoubleBlind.Infrastructure\bin\Debug\net8.0\IBOPE.DoubleBlind.Application.dll
+C:\Users\Usuario\Documents\DoubleBlind\src\IBOPE.DoubleBlind.Infrastructure\bin\Debug\net8.0\IBOPE.DoubleBlind.Domain.dll
+C:\Users\Usuario\Documents\DoubleBlind\src\IBOPE.DoubleBlind.Infrastructure\bin\Debug\net8.0\IBOPE.DoubleBlind.Application.pdb
+C:\Users\Usuario\Documents\DoubleBlind\src\IBOPE.DoubleBlind.Infrastructure\bin\Debug\net8.0\IBOPE.DoubleBlind.Domain.pdb
+C:\Users\Usuario\Documents\DoubleBlind\src\IBOPE.DoubleBlind.Infrastructure\obj\Debug\net8.0\IBOPE.DoubleBlind.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\DoubleBlind\src\IBOPE.DoubleBlind.Infrastructure\obj\Debug\net8.0\IBOPE.DoubleBlind.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\DoubleBlind\src\IBOPE.DoubleBlind.Infrastructure\obj\Debug\net8.0\IBOPE.DoubleBlind.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\DoubleBlind\src\IBOPE.DoubleBlind.Infrastructure\obj\Debug\net8.0\IBOPE.DoubleBlind.Infrastructure.AssemblyInfo.cs
+C:\Users\Usuario\Documents\DoubleBlind\src\IBOPE.DoubleBlind.Infrastructure\obj\Debug\net8.0\IBOPE.DoubleBlind.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\DoubleBlind\src\IBOPE.DoubleBlind.Infrastructure\obj\Debug\net8.0\IBOPE.Do.3FFB271C.Up2Date
+C:\Users\Usuario\Documents\DoubleBlind\src\IBOPE.DoubleBlind.Infrastructure\obj\Debug\net8.0\IBOPE.DoubleBlind.Infrastructure.dll
+C:\Users\Usuario\Documents\DoubleBlind\src\IBOPE.DoubleBlind.Infrastructure\obj\Debug\net8.0\refint\IBOPE.DoubleBlind.Infrastructure.dll
+C:\Users\Usuario\Documents\DoubleBlind\src\IBOPE.DoubleBlind.Infrastructure\obj\Debug\net8.0\IBOPE.DoubleBlind.Infrastructure.pdb
+C:\Users\Usuario\Documents\DoubleBlind\src\IBOPE.DoubleBlind.Infrastructure\obj\Debug\net8.0\ref\IBOPE.DoubleBlind.Infrastructure.dll
+C:\Users\Usuario\Documents\IGM SYSTEM\Programas_Desenvolvimento\DoubleBlind\src\IBOPE.DoubleBlind.Infrastructure\bin\Debug\net8.0\IBOPE.DoubleBlind.Infrastructure.deps.json
+C:\Users\Usuario\Documents\IGM SYSTEM\Programas_Desenvolvimento\DoubleBlind\src\IBOPE.DoubleBlind.Infrastructure\bin\Debug\net8.0\IBOPE.DoubleBlind.Infrastructure.dll
+C:\Users\Usuario\Documents\IGM SYSTEM\Programas_Desenvolvimento\DoubleBlind\src\IBOPE.DoubleBlind.Infrastructure\bin\Debug\net8.0\IBOPE.DoubleBlind.Infrastructure.pdb
+C:\Users\Usuario\Documents\IGM SYSTEM\Programas_Desenvolvimento\DoubleBlind\src\IBOPE.DoubleBlind.Infrastructure\bin\Debug\net8.0\IBOPE.DoubleBlind.Application.dll
+C:\Users\Usuario\Documents\IGM SYSTEM\Programas_Desenvolvimento\DoubleBlind\src\IBOPE.DoubleBlind.Infrastructure\bin\Debug\net8.0\IBOPE.DoubleBlind.Domain.dll
+C:\Users\Usuario\Documents\IGM SYSTEM\Programas_Desenvolvimento\DoubleBlind\src\IBOPE.DoubleBlind.Infrastructure\bin\Debug\net8.0\IBOPE.DoubleBlind.Application.pdb
+C:\Users\Usuario\Documents\IGM SYSTEM\Programas_Desenvolvimento\DoubleBlind\src\IBOPE.DoubleBlind.Infrastructure\bin\Debug\net8.0\IBOPE.DoubleBlind.Domain.pdb
+C:\Users\Usuario\Documents\IGM SYSTEM\Programas_Desenvolvimento\DoubleBlind\src\IBOPE.DoubleBlind.Infrastructure\obj\Debug\net8.0\IBOPE.DoubleBlind.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\IGM SYSTEM\Programas_Desenvolvimento\DoubleBlind\src\IBOPE.DoubleBlind.Infrastructure\obj\Debug\net8.0\IBOPE.DoubleBlind.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\IGM SYSTEM\Programas_Desenvolvimento\DoubleBlind\src\IBOPE.DoubleBlind.Infrastructure\obj\Debug\net8.0\IBOPE.DoubleBlind.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\IGM SYSTEM\Programas_Desenvolvimento\DoubleBlind\src\IBOPE.DoubleBlind.Infrastructure\obj\Debug\net8.0\IBOPE.DoubleBlind.Infrastructure.AssemblyInfo.cs
+C:\Users\Usuario\Documents\IGM SYSTEM\Programas_Desenvolvimento\DoubleBlind\src\IBOPE.DoubleBlind.Infrastructure\obj\Debug\net8.0\IBOPE.DoubleBlind.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\IGM SYSTEM\Programas_Desenvolvimento\DoubleBlind\src\IBOPE.DoubleBlind.Infrastructure\obj\Debug\net8.0\IBOPE.Do.3FFB271C.Up2Date
+C:\Users\Usuario\Documents\IGM SYSTEM\Programas_Desenvolvimento\DoubleBlind\src\IBOPE.DoubleBlind.Infrastructure\obj\Debug\net8.0\IBOPE.DoubleBlind.Infrastructure.dll
+C:\Users\Usuario\Documents\IGM SYSTEM\Programas_Desenvolvimento\DoubleBlind\src\IBOPE.DoubleBlind.Infrastructure\obj\Debug\net8.0\refint\IBOPE.DoubleBlind.Infrastructure.dll
+C:\Users\Usuario\Documents\IGM SYSTEM\Programas_Desenvolvimento\DoubleBlind\src\IBOPE.DoubleBlind.Infrastructure\obj\Debug\net8.0\IBOPE.DoubleBlind.Infrastructure.pdb
+C:\Users\Usuario\Documents\IGM SYSTEM\Programas_Desenvolvimento\DoubleBlind\src\IBOPE.DoubleBlind.Infrastructure\obj\Debug\net8.0\ref\IBOPE.DoubleBlind.Infrastructure.dll

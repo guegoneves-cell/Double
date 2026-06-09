@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\IBOPE.DoubleBlind.Web.props" />
+</Project>

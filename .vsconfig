@@ -1,0 +1,29 @@
+{
+  "version": "1.0",
+  "components": [
+    "Microsoft.VisualStudio.Component.CoreEditor",
+    "Microsoft.VisualStudio.Component.Roslyn.Compiler",
+    "Microsoft.VisualStudio.Component.Roslyn.LanguageServices",
+    "Microsoft.VisualStudio.Component.TextTemplating",
+    "Microsoft.VisualStudio.Component.NuGet",
+    "Microsoft.VisualStudio.Component.MSBuild",
+    "Microsoft.VisualStudio.Component.ManagedDesktop.Core",
+    "Microsoft.VisualStudio.Component.ManagedDesktop.Prerequisites",
+    "Microsoft.VisualStudio.Component.Debugger.JustInTime",
+    "Microsoft.VisualStudio.Component.IntelliCode",
+    "Microsoft.VisualStudio.Component.DiagnosticTools",
+    "Microsoft.VisualStudio.Component.AppInsights.Tools",
+    "Microsoft.Net.Component.8.0.SDK",
+    "Microsoft.Net.Component.8.0.Runtime",
+    "Microsoft.NetCore.Component.DevelopmentTools",
+    "Microsoft.NetCore.Component.SDK",
+    "Microsoft.VisualStudio.Web.Mvc",
+    "Microsoft.VisualStudio.Web.Mvc.Common",
+    "Microsoft.ComponentGroup.BlazorComponents",
+    "Microsoft.VisualStudio.Component.AspNet47",
+    "Microsoft.VisualStudio.Component.Web",
+    "Microsoft.VisualStudio.ComponentGroup.WebTools",
+    "Microsoft.VisualStudio.Component.JavaScript.TypeScript",
+    "Microsoft.VisualStudio.ComponentGroup.WebToolsExtensions"
+  ]
+}

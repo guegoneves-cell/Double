@@ -1,0 +1,80 @@
+C:\Users\Usuario\Documents\DoubleBlind\src\IBOPE.DoubleBlind.Web\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Usuario\Documents\DoubleBlind\src\IBOPE.DoubleBlind.Web\bin\Debug\net8.0\appsettings.json
+C:\Users\Usuario\Documents\DoubleBlind\src\IBOPE.DoubleBlind.Web\bin\Debug\net8.0\IBOPE.DoubleBlind.Web.staticwebassets.runtime.json
+C:\Users\Usuario\Documents\DoubleBlind\src\IBOPE.DoubleBlind.Web\bin\Debug\net8.0\IBOPE.DoubleBlind.Web.exe
+C:\Users\Usuario\Documents\DoubleBlind\src\IBOPE.DoubleBlind.Web\bin\Debug\net8.0\IBOPE.DoubleBlind.Web.deps.json
+C:\Users\Usuario\Documents\DoubleBlind\src\IBOPE.DoubleBlind.Web\bin\Debug\net8.0\IBOPE.DoubleBlind.Web.runtimeconfig.json
+C:\Users\Usuario\Documents\DoubleBlind\src\IBOPE.DoubleBlind.Web\bin\Debug\net8.0\IBOPE.DoubleBlind.Web.dll
+C:\Users\Usuario\Documents\DoubleBlind\src\IBOPE.DoubleBlind.Web\bin\Debug\net8.0\IBOPE.DoubleBlind.Web.pdb
+C:\Users\Usuario\Documents\DoubleBlind\src\IBOPE.DoubleBlind.Web\bin\Debug\net8.0\IBOPE.DoubleBlind.Application.dll
+C:\Users\Usuario\Documents\DoubleBlind\src\IBOPE.DoubleBlind.Web\bin\Debug\net8.0\IBOPE.DoubleBlind.Domain.dll
+C:\Users\Usuario\Documents\DoubleBlind\src\IBOPE.DoubleBlind.Web\bin\Debug\net8.0\IBOPE.DoubleBlind.Infrastructure.dll
+C:\Users\Usuario\Documents\DoubleBlind\src\IBOPE.DoubleBlind.Web\bin\Debug\net8.0\IBOPE.DoubleBlind.Application.pdb
+C:\Users\Usuario\Documents\DoubleBlind\src\IBOPE.DoubleBlind.Web\bin\Debug\net8.0\IBOPE.DoubleBlind.Infrastructure.pdb
+C:\Users\Usuario\Documents\DoubleBlind\src\IBOPE.DoubleBlind.Web\bin\Debug\net8.0\IBOPE.DoubleBlind.Domain.pdb
+C:\Users\Usuario\Documents\DoubleBlind\src\IBOPE.DoubleBlind.Web\obj\Debug\net8.0\IBOPE.DoubleBlind.Web.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\DoubleBlind\src\IBOPE.DoubleBlind.Web\obj\Debug\net8.0\IBOPE.DoubleBlind.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\DoubleBlind\src\IBOPE.DoubleBlind.Web\obj\Debug\net8.0\IBOPE.DoubleBlind.Web.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\DoubleBlind\src\IBOPE.DoubleBlind.Web\obj\Debug\net8.0\IBOPE.DoubleBlind.Web.AssemblyInfo.cs
+C:\Users\Usuario\Documents\DoubleBlind\src\IBOPE.DoubleBlind.Web\obj\Debug\net8.0\IBOPE.DoubleBlind.Web.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\DoubleBlind\src\IBOPE.DoubleBlind.Web\obj\Debug\net8.0\IBOPE.DoubleBlind.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Usuario\Documents\DoubleBlind\src\IBOPE.DoubleBlind.Web\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Usuario\Documents\DoubleBlind\src\IBOPE.DoubleBlind.Web\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Usuario\Documents\DoubleBlind\src\IBOPE.DoubleBlind.Web\obj\Debug\net8.0\staticwebassets\msbuild.IBOPE.DoubleBlind.Web.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Usuario\Documents\DoubleBlind\src\IBOPE.DoubleBlind.Web\obj\Debug\net8.0\staticwebassets\msbuild.build.IBOPE.DoubleBlind.Web.props
+C:\Users\Usuario\Documents\DoubleBlind\src\IBOPE.DoubleBlind.Web\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.IBOPE.DoubleBlind.Web.props
+C:\Users\Usuario\Documents\DoubleBlind\src\IBOPE.DoubleBlind.Web\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.IBOPE.DoubleBlind.Web.props
+C:\Users\Usuario\Documents\DoubleBlind\src\IBOPE.DoubleBlind.Web\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Usuario\Documents\DoubleBlind\src\IBOPE.DoubleBlind.Web\obj\Debug\net8.0\scopedcss\Components\Layout\AuthLayout.razor.rz.scp.css
+C:\Users\Usuario\Documents\DoubleBlind\src\IBOPE.DoubleBlind.Web\obj\Debug\net8.0\scopedcss\Components\Layout\MainLayout.razor.rz.scp.css
+C:\Users\Usuario\Documents\DoubleBlind\src\IBOPE.DoubleBlind.Web\obj\Debug\net8.0\scopedcss\Components\Layout\ReconnectModal.razor.rz.scp.css
+C:\Users\Usuario\Documents\DoubleBlind\src\IBOPE.DoubleBlind.Web\obj\Debug\net8.0\scopedcss\Components\Pages\Home.razor.rz.scp.css
+C:\Users\Usuario\Documents\DoubleBlind\src\IBOPE.DoubleBlind.Web\obj\Debug\net8.0\scopedcss\Components\Pages\Login.razor.rz.scp.css
+C:\Users\Usuario\Documents\DoubleBlind\src\IBOPE.DoubleBlind.Web\obj\Debug\net8.0\scopedcss\bundle\IBOPE.DoubleBlind.Web.styles.css
+C:\Users\Usuario\Documents\DoubleBlind\src\IBOPE.DoubleBlind.Web\obj\Debug\net8.0\scopedcss\projectbundle\IBOPE.DoubleBlind.Web.bundle.scp.css
+C:\Users\Usuario\Documents\DoubleBlind\src\IBOPE.DoubleBlind.Web\obj\Debug\net8.0\IBOPE.Do.2A2EE568.Up2Date
+C:\Users\Usuario\Documents\DoubleBlind\src\IBOPE.DoubleBlind.Web\obj\Debug\net8.0\IBOPE.DoubleBlind.Web.dll
+C:\Users\Usuario\Documents\DoubleBlind\src\IBOPE.DoubleBlind.Web\obj\Debug\net8.0\refint\IBOPE.DoubleBlind.Web.dll
+C:\Users\Usuario\Documents\DoubleBlind\src\IBOPE.DoubleBlind.Web\obj\Debug\net8.0\IBOPE.DoubleBlind.Web.pdb
+C:\Users\Usuario\Documents\DoubleBlind\src\IBOPE.DoubleBlind.Web\obj\Debug\net8.0\IBOPE.DoubleBlind.Web.genruntimeconfig.cache
+C:\Users\Usuario\Documents\DoubleBlind\src\IBOPE.DoubleBlind.Web\obj\Debug\net8.0\ref\IBOPE.DoubleBlind.Web.dll
+C:\Users\Usuario\Documents\IGM SYSTEM\Programas_Desenvolvimento\DoubleBlind\src\IBOPE.DoubleBlind.Web\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Usuario\Documents\IGM SYSTEM\Programas_Desenvolvimento\DoubleBlind\src\IBOPE.DoubleBlind.Web\bin\Debug\net8.0\appsettings.json
+C:\Users\Usuario\Documents\IGM SYSTEM\Programas_Desenvolvimento\DoubleBlind\src\IBOPE.DoubleBlind.Web\bin\Debug\net8.0\IBOPE.DoubleBlind.Web.staticwebassets.runtime.json
+C:\Users\Usuario\Documents\IGM SYSTEM\Programas_Desenvolvimento\DoubleBlind\src\IBOPE.DoubleBlind.Web\bin\Debug\net8.0\IBOPE.DoubleBlind.Web.exe
+C:\Users\Usuario\Documents\IGM SYSTEM\Programas_Desenvolvimento\DoubleBlind\src\IBOPE.DoubleBlind.Web\bin\Debug\net8.0\IBOPE.DoubleBlind.Web.deps.json
+C:\Users\Usuario\Documents\IGM SYSTEM\Programas_Desenvolvimento\DoubleBlind\src\IBOPE.DoubleBlind.Web\bin\Debug\net8.0\IBOPE.DoubleBlind.Web.runtimeconfig.json
+C:\Users\Usuario\Documents\IGM SYSTEM\Programas_Desenvolvimento\DoubleBlind\src\IBOPE.DoubleBlind.Web\bin\Debug\net8.0\IBOPE.DoubleBlind.Web.dll
+C:\Users\Usuario\Documents\IGM SYSTEM\Programas_Desenvolvimento\DoubleBlind\src\IBOPE.DoubleBlind.Web\bin\Debug\net8.0\IBOPE.DoubleBlind.Web.pdb
+C:\Users\Usuario\Documents\IGM SYSTEM\Programas_Desenvolvimento\DoubleBlind\src\IBOPE.DoubleBlind.Web\bin\Debug\net8.0\IBOPE.DoubleBlind.Application.dll
+C:\Users\Usuario\Documents\IGM SYSTEM\Programas_Desenvolvimento\DoubleBlind\src\IBOPE.DoubleBlind.Web\bin\Debug\net8.0\IBOPE.DoubleBlind.Domain.dll
+C:\Users\Usuario\Documents\IGM SYSTEM\Programas_Desenvolvimento\DoubleBlind\src\IBOPE.DoubleBlind.Web\bin\Debug\net8.0\IBOPE.DoubleBlind.Infrastructure.dll
+C:\Users\Usuario\Documents\IGM SYSTEM\Programas_Desenvolvimento\DoubleBlind\src\IBOPE.DoubleBlind.Web\bin\Debug\net8.0\IBOPE.DoubleBlind.Application.pdb
+C:\Users\Usuario\Documents\IGM SYSTEM\Programas_Desenvolvimento\DoubleBlind\src\IBOPE.DoubleBlind.Web\bin\Debug\net8.0\IBOPE.DoubleBlind.Infrastructure.pdb
+C:\Users\Usuario\Documents\IGM SYSTEM\Programas_Desenvolvimento\DoubleBlind\src\IBOPE.DoubleBlind.Web\bin\Debug\net8.0\IBOPE.DoubleBlind.Domain.pdb
+C:\Users\Usuario\Documents\IGM SYSTEM\Programas_Desenvolvimento\DoubleBlind\src\IBOPE.DoubleBlind.Web\obj\Debug\net8.0\IBOPE.DoubleBlind.Web.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\IGM SYSTEM\Programas_Desenvolvimento\DoubleBlind\src\IBOPE.DoubleBlind.Web\obj\Debug\net8.0\IBOPE.DoubleBlind.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\IGM SYSTEM\Programas_Desenvolvimento\DoubleBlind\src\IBOPE.DoubleBlind.Web\obj\Debug\net8.0\IBOPE.DoubleBlind.Web.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\IGM SYSTEM\Programas_Desenvolvimento\DoubleBlind\src\IBOPE.DoubleBlind.Web\obj\Debug\net8.0\IBOPE.DoubleBlind.Web.AssemblyInfo.cs
+C:\Users\Usuario\Documents\IGM SYSTEM\Programas_Desenvolvimento\DoubleBlind\src\IBOPE.DoubleBlind.Web\obj\Debug\net8.0\IBOPE.DoubleBlind.Web.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\IGM SYSTEM\Programas_Desenvolvimento\DoubleBlind\src\IBOPE.DoubleBlind.Web\obj\Debug\net8.0\IBOPE.DoubleBlind.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Usuario\Documents\IGM SYSTEM\Programas_Desenvolvimento\DoubleBlind\src\IBOPE.DoubleBlind.Web\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Usuario\Documents\IGM SYSTEM\Programas_Desenvolvimento\DoubleBlind\src\IBOPE.DoubleBlind.Web\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Usuario\Documents\IGM SYSTEM\Programas_Desenvolvimento\DoubleBlind\src\IBOPE.DoubleBlind.Web\obj\Debug\net8.0\staticwebassets\msbuild.IBOPE.DoubleBlind.Web.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Usuario\Documents\IGM SYSTEM\Programas_Desenvolvimento\DoubleBlind\src\IBOPE.DoubleBlind.Web\obj\Debug\net8.0\staticwebassets\msbuild.build.IBOPE.DoubleBlind.Web.props
+C:\Users\Usuario\Documents\IGM SYSTEM\Programas_Desenvolvimento\DoubleBlind\src\IBOPE.DoubleBlind.Web\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.IBOPE.DoubleBlind.Web.props
+C:\Users\Usuario\Documents\IGM SYSTEM\Programas_Desenvolvimento\DoubleBlind\src\IBOPE.DoubleBlind.Web\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.IBOPE.DoubleBlind.Web.props
+C:\Users\Usuario\Documents\IGM SYSTEM\Programas_Desenvolvimento\DoubleBlind\src\IBOPE.DoubleBlind.Web\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Usuario\Documents\IGM SYSTEM\Programas_Desenvolvimento\DoubleBlind\src\IBOPE.DoubleBlind.Web\obj\Debug\net8.0\scopedcss\Components\Layout\AuthLayout.razor.rz.scp.css
+C:\Users\Usuario\Documents\IGM SYSTEM\Programas_Desenvolvimento\DoubleBlind\src\IBOPE.DoubleBlind.Web\obj\Debug\net8.0\scopedcss\Components\Layout\MainLayout.razor.rz.scp.css
+C:\Users\Usuario\Documents\IGM SYSTEM\Programas_Desenvolvimento\DoubleBlind\src\IBOPE.DoubleBlind.Web\obj\Debug\net8.0\scopedcss\Components\Layout\ReconnectModal.razor.rz.scp.css
+C:\Users\Usuario\Documents\IGM SYSTEM\Programas_Desenvolvimento\DoubleBlind\src\IBOPE.DoubleBlind.Web\obj\Debug\net8.0\scopedcss\Components\Pages\Home.razor.rz.scp.css
+C:\Users\Usuario\Documents\IGM SYSTEM\Programas_Desenvolvimento\DoubleBlind\src\IBOPE.DoubleBlind.Web\obj\Debug\net8.0\scopedcss\Components\Pages\Login.razor.rz.scp.css
+C:\Users\Usuario\Documents\IGM SYSTEM\Programas_Desenvolvimento\DoubleBlind\src\IBOPE.DoubleBlind.Web\obj\Debug\net8.0\scopedcss\bundle\IBOPE.DoubleBlind.Web.styles.css
+C:\Users\Usuario\Documents\IGM SYSTEM\Programas_Desenvolvimento\DoubleBlind\src\IBOPE.DoubleBlind.Web\obj\Debug\net8.0\scopedcss\projectbundle\IBOPE.DoubleBlind.Web.bundle.scp.css
+C:\Users\Usuario\Documents\IGM SYSTEM\Programas_Desenvolvimento\DoubleBlind\src\IBOPE.DoubleBlind.Web\obj\Debug\net8.0\IBOPE.Do.2A2EE568.Up2Date
+C:\Users\Usuario\Documents\IGM SYSTEM\Programas_Desenvolvimento\DoubleBlind\src\IBOPE.DoubleBlind.Web\obj\Debug\net8.0\IBOPE.DoubleBlind.Web.dll
+C:\Users\Usuario\Documents\IGM SYSTEM\Programas_Desenvolvimento\DoubleBlind\src\IBOPE.DoubleBlind.Web\obj\Debug\net8.0\refint\IBOPE.DoubleBlind.Web.dll
+C:\Users\Usuario\Documents\IGM SYSTEM\Programas_Desenvolvimento\DoubleBlind\src\IBOPE.DoubleBlind.Web\obj\Debug\net8.0\IBOPE.DoubleBlind.Web.pdb
+C:\Users\Usuario\Documents\IGM SYSTEM\Programas_Desenvolvimento\DoubleBlind\src\IBOPE.DoubleBlind.Web\obj\Debug\net8.0\IBOPE.DoubleBlind.Web.genruntimeconfig.cache
+C:\Users\Usuario\Documents\IGM SYSTEM\Programas_Desenvolvimento\DoubleBlind\src\IBOPE.DoubleBlind.Web\obj\Debug\net8.0\ref\IBOPE.DoubleBlind.Web.dll
